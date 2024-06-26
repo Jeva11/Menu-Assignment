@@ -76,17 +76,8 @@ nav ul li {
     transition: all .5s;
 }
 
-nav ul li:hover {
-    color: white;
-    background-color: #EB5428;
-}
-
 nav ul li svg {
     transition: all .5s;
-}
-
-nav ul li svg:hover {
-    stroke: white;
 }
 
 nav ul li:first-child {
@@ -156,11 +147,6 @@ menu {
 menu li a {
     color: #EB5428;
     transition: all .5s;
-}
-
-menu li a:hover {
-    color: white;
-    background-color: #EB5428;
 }
 
 h3 {
@@ -246,10 +232,6 @@ h2 {
     transition: all .5s;
 }
 
-#sides figure:hover {
-    background-color: #F2A007;
-}
-
 #sides img {
     width: 100px;
     margin: auto;
@@ -296,11 +278,6 @@ footer {
     text-align: center;
     color:#EB5428;
     transition: all .5s;
-}
-
-#social ul li a:hover {
-    color: white;
-    background-color: #EB5428;
 }
 
 footer img {
